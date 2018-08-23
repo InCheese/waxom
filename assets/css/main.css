@@ -1,0 +1,74 @@
+@font-face {
+    font-family: "Raleway-Regular";
+    src: url('../fonts/Raleway-Regular.ttf');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Raleway-ExtraBold";
+    src: url('../fonts/Raleway-ExtraBold.ttf');
+    font-style: bold;
+}
+
+@font-face {
+    font-family: "Raleway-Medium";
+    src: url('../fonts/Raleway-Medium.ttf');
+}
+
+@font-face {
+    font-family: "Montserrat-Light";
+    src: url('../fonts/Montserrat-Light.ttf');
+}
+
+@font-face {
+    font-family: "Raleway-SemiBold";
+    src: url('../fonts/Raleway-SemiBold.ttf');
+}
+body{
+    font-family: 'Montserrat-Light';
+    text-align: center;
+}
+
+.slide_1
+{
+    width: 100%;
+    background-color: gray;
+    color: white;
+        
+}
+
+.header{
+    padding-top: 25px;
+    
+}
+.logo{
+    width: 117px;
+    height: ;
+    display: inline-block;
+    font-size: 24px;
+    padding-left: 68px;
+    background-image: url(/assets/images/logos.png);
+    background-color: blueviolet;
+}
+
+.menu{
+    display: inline-block;
+    font-size: 10px;
+}
+.menu_element{
+    display: inline-block;
+}
+
+.buy_and_search{
+    display: inline-block;
+}
+.buy{
+    display: inline-block;
+}
+.search{
+    display: inline-block;
+}
+
+.info{
+    
+}
